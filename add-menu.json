@@ -1,0 +1,120 @@
+{
+  "provinces": [
+    {
+      "id": 1,
+      "name": "Việc làm",
+      "code": "1",
+      "country_id": 201
+    },
+    {
+      "id": 2,
+      "name": "Địa ốc",
+      "code": "2",
+      "country_id": 201
+    },
+    {
+      "id": 3,
+      "name": "Xe cộ",
+      "code": "3",
+      "country_id": 201
+    },
+    {
+      "id": 4,
+      "name": "Điện máy - Điện tử",
+      "code": "4",
+      "country_id": 201
+    },
+    {
+      "id": 5,
+      "name": "Tổng hợp",
+      "code": "5",
+      "country_id": 201
+    }
+  ],
+  "districts": [
+    {
+      "id": 1,
+      "name": "Việc tìm người",
+      "code": "1",
+      "province_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Người tìm việc",
+      "code": "2",
+      "province_id": 1
+    },
+    {
+      "id": 1,
+      "name": "Mua nhà",
+      "code": "1",
+      "province_id": 2
+    },
+    {
+      "id": 2,
+      "name": "Bán nhà",
+      "code": "2",
+      "province_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Nhà cho thuê",
+      "code": "3",
+      "province_id": 2
+    },
+    {
+      "id": 4,
+      "name": "Phòng cho thuê",
+      "code": "4",
+      "province_id": 2
+    },
+    {
+      "id": 5,
+      "name": "Cần thuê nhà",
+      "code": "5",
+      "province_id": 2
+    },
+    {
+      "id": 5,
+      "name": "Cần thuê phòng",
+      "code": "5",
+      "province_id": 2
+    },
+    {
+      "id": 1,
+      "name": "Mua xe",
+      "code": "1",
+      "province_id": 3
+    },
+    {
+      "id": 2,
+      "name": "Bán xe",
+      "code": "2",
+      "province_id": 3
+    },
+    {
+      "id": 1,
+      "name": "Điện thoại",
+      "code": "1",
+      "province_id": 4
+    },
+    {
+      "id": 2,
+      "name": "Máy tính",
+      "code": "2",
+      "province_id": 4
+    },
+    {
+      "id": 3,
+      "name": "Điện tử - Gia dụng",
+      "code": "3",
+      "province_id": 4
+    },
+    {
+      "id": 1,
+      "name": "Tổng hợp",
+      "code": "1",
+      "province_id": 5
+    }
+  ]
+}
